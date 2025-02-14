@@ -8,7 +8,7 @@ sudo apt-get upgrade -y
 echo "Packages updated successfully"
 
 # Install the required packages
-sudo apt-get install minicom -y
+sudo apt-get install minicom yersinia -y
 
 echo "Packages installed successfully"
 
